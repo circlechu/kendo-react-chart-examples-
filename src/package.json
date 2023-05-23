@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@progress/kendo-drawing": "latest",
+    "@progress/kendo-licensing": "latest",
+    "@progress/kendo-react-charts": "latest",
+    "@progress/kendo-react-intl": "latest",
+    "hammerjs": "^2.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "description": "Example usage of KendoReact\nSee [https://www.telerik.com/kendo-react-ui/components/charts/series-types/waterfall/](https://www.telerik.com/kendo-react-ui/components/charts/series-types/waterfall/)",
+  "tags": "React,KendoReact",
+  "keywords": [],
+  "name": "kendo-react-chart-examples"
+}
